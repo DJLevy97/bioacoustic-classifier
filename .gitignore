@@ -1,0 +1,11 @@
+# Ignore large files
+data/ESC-50-master/
+data/processed_data/frame_level_model.csv
+
+__pycache__/
+*.pyc
+*.pyo
+.DS_Store
+.ipynb_checkpoints/
+.env
+.venv
